@@ -113,4 +113,4 @@ _______________________________________________________________
 $ git clone https://github.com/PriestSexist/Java-hunting-resources.git
 ```
 
-А затем запустите файл docker-compose.ymal из моего проекта
+А затем запустите файл docker-compose.ymal из моего проекта. (Docker должен быть запущен)
