@@ -1,4 +1,4 @@
-package ru.cifrak.news;
+package ru.cifrak;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
