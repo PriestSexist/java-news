@@ -106,10 +106,11 @@ _______________________________________________________________
 
 ## Использование
 [Docker](https://www.docker.com/) нужен для запуска приложения.
+
 Чтобы запустить приложение, клонируйте себе проект с помощью команды:
 
 ```sh
 $ git clone https://github.com/PriestSexist/Java-hunting-resources.git
 ```
 
-А затем запустите файл docker-compose.ymal
+А затем запустите файл docker-compose.ymal из моего проекта
