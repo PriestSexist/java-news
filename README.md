@@ -118,3 +118,7 @@ $ git clone https://github.com/PriestSexist/Java-hunting-resources.git
 $ docker-compose build
 $ docker-compose up
 ```
+Чтобы остановить проект, используйте коману:
+```sh
+$ docker-compose down
+```
